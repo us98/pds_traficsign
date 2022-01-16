@@ -102,7 +102,7 @@ upload.configure(background='#364156', foreground='white',font=('arial',10,'bold
 upload.pack(side=BOTTOM,pady=50)
 sign_image.pack(side=BOTTOM,expand=True)
 label.pack(side=BOTTOM,expand=True)
-heading = Label(top, text="Know Your Traffic Sign",pady=20, font=('arial',20,'bold'))
+heading = Label(top, text="PDS (Kelompok 4) - Know Your Traffic Sign",pady=20, font=('arial',20,'bold'))
 heading.configure(background='#CDCDCD',foreground='#364156')
 heading.pack()
 top.mainloop()
